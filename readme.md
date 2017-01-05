@@ -9,7 +9,7 @@ La forma de entregar la solución de este ejercicio es haciendo un fork de este 
 
 ### Consigna
 Maquetar una página de resultado de hoteles (ver imágenes).
-Utilizar el siguiente modelo de respuesta con angular.js 1.x o 2.x, para listar los hoteles dinámicamente.
+Utilizar el siguiente modelo de respuesta con angular.js 1.x para listar los hoteles dinámicamente.
 
 
 **Modelo de respuesta:**
