@@ -53,3 +53,5 @@ Utilizar el siguiente modelo de respuesta con angular.js 1.x para listar los hot
 
 
 **MUCHA SUERTE!**
+
+FOO
